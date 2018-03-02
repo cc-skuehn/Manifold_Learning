@@ -8,9 +8,13 @@ https://de.slideshare.net/StefanKhn4
 ### Scikit-learn documentation
 
 http://scikit-learn.org/stable/modules/manifold.html
+
 http://scikit-learn.org/stable/auto_examples/manifold/plot_compare_methods.html
+
 http://scikit-learn.org/stable/auto_examples/manifold/plot_manifold_sphere.html
+
 http://scikit-learn.org/stable/modules/random_projection.html
+
 http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html
 
 ### Github repo with worked examples
