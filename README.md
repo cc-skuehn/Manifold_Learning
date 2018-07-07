@@ -33,4 +33,4 @@ http://jmlr.csail.mit.edu/papers/v12/pedregosa11a.html
 Visit me on XING
 https://www.xing.com/profile/Stefan_Kuehn46
 
-![alt text](https://raw.githubusercontent.com/cc-skuehn/Manifold_Learning/Manifold_Learning_Teaser.png)
+![alt text](https://raw.githubusercontent.com/cc-skuehn/Manifold_Learning/master/Manifold_Learning_Teaser.png)
