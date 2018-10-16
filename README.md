@@ -77,8 +77,11 @@ https://umap-learn.readthedocs.io/en/latest/basic_usage.html
 ### Author / Contact / Questions
 
 Visit me on XING
+
 https://www.xing.com/profile/Stefan_Kuehn46
+
 But I am on LinkedIn as well...
+
 https://www.linkedin.com/in/stefan-k%C3%BChn-020a34119/
 
 ![alt text](https://raw.githubusercontent.com/cc-skuehn/Manifold_Learning/master/Manifold_Learning_Teaser.png)
