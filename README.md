@@ -5,7 +5,7 @@ Worked examples about manifold learning using sklearn and jupyter - It's all a b
 * Manifold_Sphere_Dataset.ipynb
 * Manifold_Handwritten_Digits_Dataset.ipynb
 * Manifold_tSNE_UMAP_Advanced.ipynb
-* Manifold_Handwritten_Digits_Classification.ipynb
+* Manifold_Handwritten_Digits_Classification_WIP.ipynb
 
 ## Slides
 https://de.slideshare.net/StefanKhn4
