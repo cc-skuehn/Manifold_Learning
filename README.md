@@ -1,5 +1,11 @@
 # Manifold_Learning
-Worked examples about manifold learning using sklearn and jupyter
+Worked examples about manifold learning using sklearn and jupyter - It's all a bit Work-In-Progress so the "should be working" notebooks are
+* Manifold_S_Dataset.ipynb
+* Manifold_S_Dataset_Morphed.ipynb
+* Manifold_Sphere_Dataset.ipynb
+* Manifold_Handwritten_Digits_Dataset.ipynb
+* Manifold_tSNE_UMAP_Advanced.ipynb
+* Manifold_Handwritten_Digits_Classification.ipynb
 
 ## Slides
 https://de.slideshare.net/StefanKhn4
