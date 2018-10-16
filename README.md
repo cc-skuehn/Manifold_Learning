@@ -4,6 +4,29 @@ Worked examples about manifold learning using sklearn and jupyter
 ## Slides
 https://de.slideshare.net/StefanKhn4
 
+Alternatively, there are some pdf versions of related talks in the repo, the latest version being
+Mcubed_20181016.pdf
+
+In the slides there are even more links to useful resources
+
+## Methods covered (well, mentioned and used)
+
+### Dimensionality Reduction
+* PCA - Principal Component Analysis
+* GRP - Gaussian Random Projections
+* SRP - Sparse Random Projections
+
+### Standard Manifold Learning
+* LLE - Locally Linear Embedding (multiple variants)
+* Isomap - 
+* MDS - Multi-Dimensional Scaling
+* Spectral Embedding (Laplacian Eigenmaps)
+* LTSA - Local Tangent Space Alignment
+
+### Advanced Manifold Learning
+* tSNE - t-Distributed Stochastic Neighbor Embedding
+* UMAP - Uniform Manifold Approximation and Projection
+
 ## Resources
 ### Scikit-learn documentation
 
