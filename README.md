@@ -1,4 +1,4 @@
-# Manifold_Learning
+# Manifold_Learning Repository
 Worked examples about manifold learning using sklearn and jupyter - It's all a bit Work-In-Progress so the "should be working" notebooks are
 * Manifold_S_Dataset.ipynb
 * Manifold_S_Dataset_Morphed.ipynb
